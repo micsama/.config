@@ -1,0 +1,5 @@
+port = 2489
+host = '172.31.48.1'
+line-ending = 'crlf'
+trans-loopback = true
+trans-localfile = true
