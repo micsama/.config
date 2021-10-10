@@ -13,7 +13,7 @@ alias vi=nvim
 export EDITOR=nvim
 export DOIT_HOST=172.18.80.1
 export BROWSER='google-chrome-unstable --new-window '
-set PATH  /home/dzmfg/.local/share/gem/ruby/3.0.0/bin  /home/dzmfg/go/bin  /home/dzmfg/.local/bin $PATH
+set PATH /home/dzmfg/.cargo/bin /home/dzmfg/.local/share/gem/ruby/3.0.0/bin  /home/dzmfg/go/bin  /home/dzmfg/.local/bin $PATH
 
 alias pssr='export http_proxy="http://127.0.0.1:20171";export https_proxy="http://127.0.0.1:20171"'
 alias ma="sudo make clean install"
